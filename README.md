@@ -15,12 +15,14 @@ Always exploring new technologies and best practices in full-stack development.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-**Frontend:** React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Firebase  
-**Version Control:** Git, GitHub  
-**Tools:** Postman, VS Code, Figma  
+### ⚛️ Technologies & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
