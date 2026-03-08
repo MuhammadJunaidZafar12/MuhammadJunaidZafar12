@@ -32,9 +32,11 @@ Always exploring new technologies and best practices in full-stack development.
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaidZafar12&show_icons=true&theme=tokyonight" alt="Junaid's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaidZafar12&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadJunaidZafar12&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJunaidZafar12&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
